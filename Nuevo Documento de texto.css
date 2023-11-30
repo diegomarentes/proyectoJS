@@ -1,0 +1,157 @@
+header {
+    background-color: steelblue;
+    color: white;
+    padding: 15px;
+    text-align: center;
+  }
+  
+.nombre-ips h1 {
+    margin: 0;
+  }
+  
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
+  }
+  
+nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+  }
+  
+nav a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  
+main {
+    padding: 20px;
+  }
+  
+section {
+    margin-bottom: 40px;
+  }
+  
+section h2 {
+    color: steelblue;
+  }
+  
+section p {
+    line-height: 1.6;
+  }
+  
+.contactenos {
+    background-color: #f4f4f4;
+    padding: 40px;
+  }
+  
+.contactenos h2 {
+    color: steelblue;
+  }
+  
+footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+section h2 {
+    color: steelblue;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+section p {
+    text-align: center;
+    line-height: 1.6;
+  }
+  
+.contactenos {
+    background-color: #f4f4f4;
+    padding: 40px;
+    text-align: center;
+  }
+  
+.contactenos h2 {
+    color: steelblue;
+  }
+  
+footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+#opiniones {
+    background-color: #f9f9f9;
+    padding: 40px;
+  }
+  
+article {
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+article h3 {
+    color: steelblue;
+    font-weight: bold;
+  }
+  
+article p {
+    color: #555;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+main {
+    padding: 20px;
+  }
+  
+section {
+    margin-bottom: 40px;
+    text-align: justify;
+  }
+  
+section h2 {
+    color: steelblue;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+section p {
+    text-align: center;
+    line-height: 1.6;
+    text-align: justify;
+  }
+  
+.contactenos {
+    background-color: #f4f4f4;
+    padding: 40px;
+  }
+  
+.contactenos h2 {
+    color: steelblue;
+  }
+  
+footer {
+    background-color: steelblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+.opinion, .nombre, #contactenos {
+    text-align: center;
+  }
+  
+#contactenos p {
+    text-align: center;
+  }
